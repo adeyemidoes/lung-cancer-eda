@@ -1,4 +1,4 @@
-# Uncovering Lung Cancer Risk Patterns with Excel: A 890,000-Record EDA
+# Uncovering Lung Cancer Mortality with Excel: A 890,000-Record EDA
 Lung cancer is one of the most common and deadly diseases in the world. As part of building my data analytics portfolio, I explored a public dataset of 890,000 patient records to uncover trends in survival, treatment, and risk factors like age, smoking, and BMI, all using Microsoft Excel.
 
 I’ll walk through how I cleaned and analyzed the data, the key insights I discovered, and how I designed an interactive dashboard to make the findings easier to interpret.
